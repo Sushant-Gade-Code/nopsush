@@ -1,0 +1,111 @@
+2023-10-08 20:21:38,656 : INFO : Test_add_new_customer_004 : test_add_new_customer : 20 : Test test_add_new_customer Started..!
+2023-10-08 20:21:38,657 : INFO : Test_add_new_customer_004 : test_add_new_customer : 22 : Initalizing the insatnce of webdriver is Done..!
+2023-10-08 20:21:38,731 : INFO : Test_login : test_LoginPage_title_02 : 39 : Test test_LoginPage_title_02 Started..!
+2023-10-08 20:21:38,732 : INFO : Test_login : test_LoginPage_title_02 : 41 : Initializing the driver is Done..!
+2023-10-08 20:21:38,977 : INFO : TestSearch_Customer_By_name_006 : test_Search_Customer_By_name_006 : 21 : Test test_Search_Customer_005 Started..!
+2023-10-08 20:21:38,977 : INFO : TestSearch_Customer_By_name_006 : test_Search_Customer_By_name_006 : 23 : Initalizing the insatnce of webdriver is Done..!
+2023-10-08 20:21:44,971 : INFO : Test_add_new_customer_004 : test_add_new_customer : 25 : Opening the URl is Done..!
+2023-10-08 20:21:44,972 : INFO : Test_add_new_customer_004 : test_add_new_customer : 27 : Creating the Object of LoginPage class is Done..!
+2023-10-08 20:21:45,102 : INFO : Test_login : test_LoginPage_title_02 : 43 : Opening The Url is Succssfully..!
+2023-10-08 20:21:45,102 : INFO : Test_login : test_LoginPage_title_02 : 45 : Creating of an object Of LoginPage class is done ..!
+2023-10-08 20:21:45,335 : INFO : Test_add_new_customer_004 : test_add_new_customer : 29 : Getting the Email is Done..!
+2023-10-08 20:21:45,490 : INFO : Test_login : test_LoginPage_title_02 : 47 : Getting useremail is done ..!
+2023-10-08 20:21:45,566 : INFO : Test_add_new_customer_004 : test_add_new_customer : 31 : Getting the password is Done..!
+2023-10-08 20:21:45,740 : INFO : Test_login : test_LoginPage_title_02 : 49 : Getting userpassword is done ..!
+2023-10-08 20:21:48,605 : INFO : TestSearch_Customer_By_name_006 : test_Search_Customer_By_name_006 : 26 : Opening the URl is Done..!
+2023-10-08 20:21:48,605 : INFO : TestSearch_Customer_By_name_006 : test_Search_Customer_By_name_006 : 28 : Creating the Object of LoginPage class is Done..!
+2023-10-08 20:21:49,005 : INFO : TestSearch_Customer_By_name_006 : test_Search_Customer_By_name_006 : 30 : Getting the Email is Done..!
+2023-10-08 20:21:49,254 : INFO : TestSearch_Customer_By_name_006 : test_Search_Customer_By_name_006 : 32 : Getting the password is Done..!
+2023-10-08 20:21:58,379 : INFO : Test_add_new_customer_004 : test_add_new_customer : 33 : Clicking the LogInButton is successfully ..!
+2023-10-08 20:21:58,380 : INFO : TestSearch_Customer_By_name_006 : test_Search_Customer_By_name_006 : 34 : Clicking the LogInButton is successfully ..!
+2023-10-08 20:21:59,473 : INFO : Test_login : test_LoginPage_title_02 : 51 : Getting LogInButton is Succesfully ..!
+2023-10-08 20:21:59,495 : INFO : Test_login : test_LoginPage_title_02 : 53 : Capturing act_title is Done ..!
+2023-10-08 20:21:59,495 : INFO : Test_login : test_LoginPage_title_02 : 56 : Test test_LoginPage_title_02 Passed..!
+2023-10-08 20:21:59,802 : INFO : Test_login : test_LoginPage_title_02 : 59 : Capturing Screenshot of test_LoginPage_title_passed.png..!
+2023-10-08 20:22:02,666 : INFO : Test_login : test_LoginPage_title_02 : 61 : Getting LogOutButton is Succesfully ..!
+2023-10-08 20:22:03,381 : INFO : Test_add_new_customer_004 : test_add_new_customer : 36 : Creating the Object of AddNewCustomer class is Done..!
+lass is Done..!
+2023-10-08 20:22:05,302 : INFO : Test_login_ddt_002 : test_login_ddt : 16 : Test test_login_ddt Started..!
+2023-10-08 20:22:05,302 : INFO : Test_login_ddt_002 : test_login_ddt : 18 : Initializing driver is done..!
+2023-10-08 20:22:05,942 : INFO : TestSearch_Customer_By_name_006 : test_Search_Customer_By_name_006 : 40 : Getting the getCustomermainmenu is Done....!
+2023-10-08 20:22:05,955 : INFO : Test_add_new_customer_004 : test_add_new_customer : 40 : Getting the getCustomermainmenu is Done....!
+2023-10-08 20:22:12,704 : INFO : Test_login_ddt_002 : test_login_ddt : 20 : Opening Url Is successfully..!
+2023-10-08 20:22:12,708 : INFO : Test_login_ddt_002 : test_login_ddt : 22 : Creating object of an LoginPage class is sucesfully..!
+2023-10-08 20:22:12,725 : INFO : Test_login_ddt_002 : test_login_ddt : 26 : Getting useremail  is sucesfully..!
+2023-10-08 20:22:12,744 : INFO : Test_login_ddt_002 : test_login_ddt : 28 : Getting userpass  is sucesfully..!
+2023-10-08 20:22:12,760 : INFO : Test_login_ddt_002 : test_login_ddt : 30 : Getting status  is sucesfully..!
+2023-10-08 20:22:13,184 : INFO : Test_login_ddt_002 : test_login_ddt : 32 : Paasing useremail into email field  is sucesfully..!
+2023-10-08 20:22:13,451 : INFO : Test_login_ddt_002 : test_login_ddt : 34 : Paasing userpass into Password field  is sucesfully..!
+2023-10-08 20:22:16,871 : INFO : TestSearch_Customer_By_name_006 : test_Search_Customer_By_name_006 : 43 : Getting the Customersubmenu is Done....!
+2023-10-08 20:22:21,403 : INFO : Test_add_new_customer_004 : test_add_new_customer : 43 : Getting the Customersubmenu is Done....!
+2023-10-08 20:22:36,959 : INFO : Test_add_new_customer_004 : test_add_new_customer : 46 : Getting the getAddnewButton is Done....!
+2023-10-08 20:22:37,343 : INFO : TestSearch_Customer_By_email_005 : test_Search_Customer_By_email_005 : 21 : Test test_Search_Customer_005 Started..!
+2023-10-08 20:22:37,344 : INFO : TestSearch_Customer_By_email_005 : test_Search_Customer_By_email_005 : 23 : Initalizing the insatnce of webdriver is Done..!
+2023-10-08 20:22:39,035 : INFO : Test_login_ddt_002 : test_login_ddt : 37 : Getting LogInButton is sucesfully..!
+2023-10-08 20:22:39,071 : INFO : Test_login_ddt_002 : test_login_ddt : 39 : Capturing act_title is sucesfully..!
+2023-10-08 20:22:39,071 : INFO : Test_login_ddt_002 : test_login_ddt : 42 : Test test_login_ddt Passed..!
+2023-10-08 20:22:39,071 : INFO : Test_login_ddt_002 : test_login_ddt : 44 : Test status is Pass..!
+2023-10-08 20:22:39,071 : INFO : Test_login_ddt_002 : test_login_ddt : 46 : Pass is add into emptyList..!
+2023-10-08 20:22:43,735 : INFO : Test_login_ddt_002 : test_login_ddt : 48 : Getting LogOutButton is Successfully..!
+2023-10-08 20:22:44,211 : INFO : Test_add_new_customer_004 : test_add_new_customer : 52 : Getting the random_generator Email is Done....!
+2023-10-08 20:22:45,321 : INFO : TestSearch_Customer_By_email_005 : test_Search_Customer_By_email_005 : 26 : Opening the URl is Done..!
+2023-10-08 20:22:45,322 : INFO : TestSearch_Customer_By_email_005 : test_Search_Customer_By_email_005 : 28 : Creating the Object of LoginPage class is Done..!
+2023-10-08 20:22:45,614 : INFO : TestSearch_Customer_By_email_005 : test_Search_Customer_By_email_005 : 30 : Getting the Email is Done..!
+2023-10-08 20:22:45,861 : INFO : TestSearch_Customer_By_email_005 : test_Search_Customer_By_email_005 : 32 : Getting the password is Done..!
+2023-10-08 20:22:46,713 : INFO : Test_add_new_customer_004 : test_add_new_customer : 55 : Getting the getPassword is Done....!
+2023-10-08 20:22:48,811 : INFO : Test_login_ddt_002 : test_login_ddt : 26 : Getting useremail  is sucesfully..!
+2023-10-08 20:22:48,867 : INFO : Test_login_ddt_002 : test_login_ddt : 28 : Getting userpass  is sucesfully..!
+2023-10-08 20:22:48,926 : INFO : Test_login_ddt_002 : test_login_ddt : 30 : Getting status  is sucesfully..!
+2023-10-08 20:22:49,099 : INFO : Test_add_new_customer_004 : test_add_new_customer : 58 : Getting getFirstName is Done....!
+2023-10-08 20:22:49,181 : INFO : Test_login_ddt_002 : test_login_ddt : 32 : Paasing useremail into email field  is sucesfully..!
+2023-10-08 20:22:49,457 : INFO : Test_login_ddt_002 : test_login_ddt : 34 : Paasing userpass into Password field  is sucesfully..!
+2023-10-08 20:22:51,681 : INFO : Test_add_new_customer_004 : test_add_new_customer : 61 : Getting getLastName is Done....!
+2023-10-08 20:22:53,272 : INFO : Test_login_ddt_002 : test_login_ddt : 37 : Getting LogInButton is sucesfully..!
+2023-10-08 20:22:53,280 : INFO : Test_login_ddt_002 : test_login_ddt : 39 : Capturing act_title is sucesfully..!
+2023-10-08 20:22:53,281 : INFO : Test_login_ddt_002 : test_login_ddt : 58 : Test test_login_ddt Failed..!
+2023-10-08 20:22:53,281 : INFO : Test_login_ddt_002 : test_login_ddt : 60 : Test status is Fail..!
+2023-10-08 20:22:53,281 : INFO : Test_login_ddt_002 : test_login_ddt : 62 : Fail is add into emptyList..!
+2023-10-08 20:22:54,043 : INFO : Test_add_new_customer_004 : test_add_new_customer : 64 : Getting getRadioButton Male is Done....!
+2023-10-08 20:22:56,692 : INFO : Test_add_new_customer_004 : test_add_new_customer : 67 : Getting getDOB  is Done....!
+2023-10-08 20:22:58,341 : INFO : Test_login_ddt_002 : test_login_ddt : 26 : Getting useremail  is sucesfully..!
+2023-10-08 20:22:58,399 : INFO : Test_login_ddt_002 : test_login_ddt : 28 : Getting userpass  is sucesfully..!
+2023-10-08 20:22:58,448 : INFO : Test_login_ddt_002 : test_login_ddt : 30 : Getting status  is sucesfully..!
+2023-10-08 20:22:59,011 : INFO : Test_login_ddt_002 : test_login_ddt : 32 : Paasing useremail into email field  is sucesfully..!
+2023-10-08 20:22:59,177 : INFO : Test_add_new_customer_004 : test_add_new_customer : 70 : Getting getDOB  is Done....!
+2023-10-08 20:22:59,251 : INFO : Test_login_ddt_002 : test_login_ddt : 34 : Paasing userpass into Password field  is sucesfully..!
+2023-10-08 20:23:01,356 : INFO : Test_add_new_customer_004 : test_add_new_customer : 73 : Getting getIsTaxExempt  is Done....!
+2023-10-08 20:23:02,550 : INFO : Test_login_ddt_002 : test_login_ddt : 37 : Getting LogInButton is sucesfully..!
+2023-10-08 20:23:02,564 : INFO : Test_login_ddt_002 : test_login_ddt : 39 : Capturing act_title is sucesfully..!
+2023-10-08 20:23:02,565 : INFO : Test_login_ddt_002 : test_login_ddt : 58 : Test test_login_ddt Failed..!
+2023-10-08 20:23:02,566 : INFO : Test_login_ddt_002 : test_login_ddt : 60 : Test status is Fail..!
+2023-10-08 20:23:02,567 : INFO : Test_login_ddt_002 : test_login_ddt : 62 : Fail is add into emptyList..!
+2023-10-08 20:23:07,625 : INFO : Test_login_ddt_002 : test_login_ddt : 26 : Getting useremail  is sucesfully..!
+2023-10-08 20:23:07,677 : INFO : Test_login_ddt_002 : test_login_ddt : 28 : Getting userpass  is sucesfully..!
+2023-10-08 20:23:07,765 : INFO : Test_login_ddt_002 : test_login_ddt : 30 : Getting status  is sucesfully..!
+2023-10-08 20:23:08,097 : INFO : Test_login_ddt_002 : test_login_ddt : 32 : Paasing useremail into email field  is sucesfully..!
+2023-10-08 20:23:08,296 : INFO : Test_login_ddt_002 : test_login_ddt : 34 : Paasing userpass into Password field  is sucesfully..!
+2023-10-08 20:23:11,704 : INFO : Test_login_ddt_002 : test_login_ddt : 37 : Getting LogInButton is sucesfully..!
+2023-10-08 20:23:11,725 : INFO : Test_login_ddt_002 : test_login_ddt : 39 : Capturing act_title is sucesfully..!
+2023-10-08 20:23:11,726 : INFO : Test_login_ddt_002 : test_login_ddt : 58 : Test test_login_ddt Failed..!
+2023-10-08 20:23:11,726 : INFO : Test_login_ddt_002 : test_login_ddt : 60 : Test status is Fail..!
+2023-10-08 20:23:11,726 : INFO : Test_login_ddt_002 : test_login_ddt : 62 : Fail is add into emptyList..!
+2023-10-08 20:23:17,041 : INFO : Test_login_ddt_002 : test_login_ddt : 70 : Closing active window is done..!
+2023-10-08 20:23:17,042 : INFO : Test_login_ddt_002 : test_login_ddt : 74 : Tata driven testing is pass..!
+2023-10-08 20:23:18,651 : INFO : Test_add_new_customer_004 : test_add_new_customer : 80 : Getting getCustomerRoles  is Done....!
+2023-10-08 20:23:30,128 : INFO : Test_add_new_customer_004 : test_add_new_customer : 83 : Getting getCustomerRoles  is Done....!
+2023-10-08 20:23:32,726 : INFO : Test_add_new_customer_004 : test_add_new_customer : 86 : Getting getmangerOfVender  is Done....!
+2023-10-08 20:23:37,047 : INFO : Test_add_new_customer_004 : test_add_new_customer : 91 : Getting getAdminComment  is Done....!
+2023-10-08 20:23:38,356 : INFO : TestSearch_Customer_By_email_005 : test_Search_Customer_By_email_005 : 34 : Clicking the LogInButton is successfully ..!
+2023-10-08 20:23:43,359 : INFO : TestSearch_Customer_By_email_005 : test_Search_Customer_By_email_005 : 37 : Creating the Object of AddNewCustomer class is Done..!
+2023-10-08 20:23:44,556 : INFO : Test_add_new_customer_004 : test_add_new_customer : 93 : Getting getSaveButton  is Done....!
+2023-10-08 20:23:45,819 : INFO : TestSearch_Customer_By_email_005 : test_Search_Customer_By_email_005 : 40 : Getting the getCustomermainmenu is Done....!
+2023-10-08 20:23:47,061 : INFO : Test_add_new_customer_004 : test_add_new_customer : 96 : Capturing body text  is Done....!
+2023-10-08 20:23:47,061 : INFO : Test_add_new_customer_004 : test_add_new_customer : 101 : Test test_add_new_customer Passed..!
+2023-10-08 20:23:54,707 : INFO : Test_login : test_HomePage_title_01 : 14 : Test test_HomePage_title__001 Started..!
+2023-10-08 20:23:54,708 : INFO : Test_login : test_HomePage_title_01 : 16 : Initialization driver Is Done..!
+2023-10-08 20:24:03,447 : INFO : Test_login : test_HomePage_title_01 : 18 : Opening The Url is Succssfully..!
+2023-10-08 20:24:03,471 : INFO : TestSearch_Customer_By_email_005 : test_Search_Customer_By_email_005 : 43 : Getting the Customersubmenu is Done....!
+2023-10-08 20:24:03,475 : INFO : Test_login : test_HomePage_title_01 : 20 : Capturing act_title is Done ..!
+2023-10-08 20:24:03,476 : INFO : Test_login : test_HomePage_title_01 : 23 : Test test_HomePage_title__001 Passed..!
+2023-10-08 20:24:03,747 : INFO : Test_login : test_HomePage_title_01 : 26 : Capturing Screenshots of test_HomePage_title_Passed.png is Done ..!
+2023-10-08 20:24:04,008 : INFO : Test_login : test_HomePage_title_01 : 28 : Closing active window  is Done ..!
